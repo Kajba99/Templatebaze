@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvRodendan" type="id" />
+    <item name="tvGodina" type="id" />
+    <item name="tvSpol" type="id" />
+    <item name="tvIme" type="id" />
+    <item name="tvID" type="id" />
+    <item name="rvListaStudenata" type="id" />
+    <item name="sGodina" type="id" />
+    <item name="rbZ" type="id" />
+    <item name="rbM" type="id" />
+    <item name="rgSpol" type="id" />
+    <item name="etDatum" type="id" />
+    <item name="etIme" type="id" />
+    <item name="tvId" type="id" />
+</resources>
